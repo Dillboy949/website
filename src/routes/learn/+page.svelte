@@ -1,7 +1,7 @@
 <script lang="ts">
     import { isMenuOpen } from "$stores/menu";
 
-    import robot from "$assets/robot.jpeg";
+    import robot from "$assets/about_img.png";
 </script>
 
 <svelte:head>
