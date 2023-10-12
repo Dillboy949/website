@@ -14,11 +14,10 @@
     <img src={robot} alt="robot" />
 
     <p class="about--text">
-        We are located at Southridge High School, in Beaverton, Oregon. At Southridge Robotics Club,
-        we are a team of friends who are just getting started together in the field of robotics and
-        programming, trying to learn from each other. At Southridge Robotics Club, we are piecing
-        together our minds, to build robots and simply put time and effort into something that we
-        all enjoy.
+        We are Hawkbotics, Southridge High School's FTC robotics team, in Beaverton, Oregon. We are 
+        a team of friends just starting in robotics and programming and trying to learn from each other 
+        to improve our skills. Here, we combine our intellect and ideas to build robots and put time and 
+        effort into something we all enjoy.
     </p>
 </section>
 
